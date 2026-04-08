@@ -1,0 +1,26 @@
+{
+  "name": "@unbrowse/collective-learning",
+  "version": "0.1.0",
+  "description": "Meta-pattern for agent-contributed knowledge. Agents discover API recipes, workarounds, and failure patterns — then auto-contribute them back to skill repos via GitHub PRs/issues.",
+  "keywords": [
+    "ai-agents",
+    "collective-intelligence",
+    "skills",
+    "api-discovery",
+    "claude-code",
+    "mcp",
+    "open-source"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unbrowse-ai/collective-learning"
+  },
+  "license": "MIT",
+  "author": "Unbrowse AI <hello@unbrowse.ai>",
+  "files": [
+    "skills/",
+    "collective-knowledge/",
+    "examples/",
+    "README.md"
+  ]
+}
